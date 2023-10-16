@@ -1,2 +1,2 @@
-"# notes_manager" 
-"# notes_manager" 
+Менеджер заметок, полностью написанный на Python.
+Технологии: Flet, для сохранения заметок - SQLAlchemy (SQlite3)
